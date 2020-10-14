@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BharathAgri</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="imdb">IMDB</string>
+    <string name="overview">Overview</string>
+    <string name="movie_cast">Movie Cast</string>
+    <string name="movie_crew">Movie Crew</string>
+</resources>
